@@ -1,0 +1,10 @@
+*.class
+
+# Folders #
+/target
+
+# Packaged files #
+*.jar
+/bin/
+
+*.iml
